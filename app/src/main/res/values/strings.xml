@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">USO DE CONTROLES BÁSICOS</string>
+
+    <string name="titulo" translatable="false">EJEMPLO DE CONTROLES BÁSICOS</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="enviardatos">ENVIAR DATOS</string>
+
+    //segunda activity
+
+    <string name="titulo2">DETERMINAR SI ES MAYOR DE EDAD</string>
+    <string name="nombre3">Escriba su nombre</string>
+    <string name="edad3">Escriba su edad</string>
+    <string name="enviarDatos">ENVIAR DATOS</string>
+    <string name="btEnviardatosfinal">Enviar Datos</string>
+
+
+    //tercera activity
+    <string name="Titulo3">Determinar si es mayor de edad</string>
+    <string name="PantallaAnterior">PANTALLA ANTERIOR</string>
+    <string name="tvEstado">Su estado es </string>
+    <string name="CAMBIA_PANTALLA">SIGUIENTE</string>
+    <string name="volver">REGRESAR </string>
+</resources>
+
+
